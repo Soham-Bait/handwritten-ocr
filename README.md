@@ -1,0 +1,15 @@
+# TrOCR OCR Project
+
+## Setup
+
+pip install -r requirements.txt
+
+## Run
+
+python scripts/run_ocr.py
+
+## Notes
+
+- Uses Microsoft TrOCR pretrained model
+- Designed for handwritten OCR
+- Modular for integration with APIs / pipelines
